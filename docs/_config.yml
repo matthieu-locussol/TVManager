@@ -1,0 +1,7 @@
+theme: jekyll-theme-cayman
+version: 1.0.0
+name: TVManager
+description: TVManager for Movies, TV Shows and Animes
+url: https://matthieu-locussol.github.io/TVManager
+repository: https://github.com/matthieu-locussol/TVManager
+show_downloads: true
